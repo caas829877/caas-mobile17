@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://student.caasgroup.net/",
-    "gcmpn": "learn-moodle-1159"
+    "siteurl": "http://student.caasgroup.net/",
+    "gcmpn": "694767596569"
 }
