@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20160"
+        id        = "com.caas.student"
+        versionCode = "20170"
         version   = "3.2.0">
-    <name>Moodle Mobile</name>
+    <name>CAAS Student Portal</name>
 
     <description>
-        Moodle Mobile official app
+       Shaping Career Since 2008
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://caasgroup.net" email="mobile@caasgroup.net">
+        CAAS Academy
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -352,6 +352,9 @@
                 <string>Alternate</string>
                 <key>LSItemContentTypes</key>
                 <array>
+                        
+                        
+                   
                   <string>public.xml</string>
                 </array>
             </dict>
